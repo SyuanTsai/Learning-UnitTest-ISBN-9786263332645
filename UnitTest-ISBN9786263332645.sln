@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.library.UnitTest", "UnitTest.library.UnitTest\UnitTest.library.UnitTest.csproj", "{E6FEE35F-6AE9-42AF-9A33-11D3D4D3B799}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.library.CH2.UnitTest", "UnitTest.library.CH2.UnitTest\UnitTest.library.CH2.UnitTest.csproj", "{E6FEE35F-6AE9-42AF-9A33-11D3D4D3B799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.Library", "UnitTest.Library\UnitTest.Library.csproj", "{BAC7AA99-89E1-4E76-9328-720DC16CAB66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.Library.CH2", "UnitTest.Library.CH2\UnitTest.Library.CH2.csproj", "{BAC7AA99-89E1-4E76-9328-720DC16CAB66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
