@@ -1,7 +1,7 @@
 # Learning UnitTest ISBN 9786263332645
 
 A small study repository associated with
-"你就是不寫測試才會沒時間：Kuma 的單元測試實戰 — Java 篇"
+"你就是不寫測試才會沒時間：Kuma 的單元測試實戰 — C# 篇"
 (ISBN 978-626-333-264-5).
 
 ## Source attribution
