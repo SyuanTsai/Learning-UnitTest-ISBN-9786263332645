@@ -5,7 +5,7 @@
 The project records a study of:
 
 - Author: 許煜松 (Kuma)
-- Title: 你就是不寫測試才會沒時間：Kuma 的單元測試實戰 — Java 篇
+- Title: 你就是不寫測試才會沒時間：Kuma 的單元測試實戰 — C# 篇
 - Publisher: 博碩文化股份有限公司
 - ISBN: 978-626-333-264-5
 - Public source series: https://ithelp.ithome.com.tw/users/20107429/ironman/3897
